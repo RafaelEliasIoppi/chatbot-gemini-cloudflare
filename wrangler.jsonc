@@ -1,0 +1,8 @@
+{
+  "name": "chat-boot-gemini",
+  "main": "worker/index.js",
+  "compatibility_date": "2025-11-19",
+  "assets": {
+    "directory": "./public"
+  }
+}
