@@ -1,0 +1,8 @@
+{
+  "name": "chatbot-gemini-cloudflare",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler publish"
+  }
+}
